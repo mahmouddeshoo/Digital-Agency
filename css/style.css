@@ -98,7 +98,7 @@ header, section{
     width: 100%;
     max-width: 1500px;
     height: 100vh;
-    background: linear-gradient(rgba(0, 1, 22, 0.739), rgba(0, 1, 22, 0.739)), url("/img/containerbg.png");
+    background: linear-gradient(rgba(0, 1, 22, 0.739), rgba(0, 1, 22, 0.739)), url("img/containerbg.png");
     /* background-image: url("/img/containerbg.png"); */
     background-position: center;
     background-repeat: no-repeat;
@@ -411,7 +411,7 @@ header, section{
 }
 .content_six{
     padding: var(--mainPadding);
-    background: linear-gradient(rgba(0, 1, 22, 0.839), rgba(0, 1, 22, 0.839)), url("/img/containerbg2.png");
+    background: linear-gradient(rgba(0, 1, 22, 0.839), rgba(0, 1, 22, 0.839)), url("img/containerbg2.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
